@@ -21,8 +21,6 @@ This project is built to:
 
 ## 📁 Repository Structure
 
-```
-
 paths/
 └── jr-penetration-tester/
 └── introduction-to-cyber-security/
@@ -32,12 +30,7 @@ paths/
 └── answers.md
 
 toolbox/
-├── common-commands.md
-├── enumeration-templates.md
-├── methodology.md
-└── cheatsheets/
-
-```
+└── common-commands.md
 
 This mirrors how TryHackMe structures its learning paths so I can return to any room and quickly refresh the knowledge.
 
