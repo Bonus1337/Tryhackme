@@ -27,10 +27,10 @@ paths/
 ├── notes.md
 ├── attack-path.md
 └── answers.md
-```
+
 toolbox/
 └── common-commands.md
-
+```
 This mirrors how TryHackMe structures its learning paths so I can return to any room and quickly refresh the knowledge.
 
 ---
