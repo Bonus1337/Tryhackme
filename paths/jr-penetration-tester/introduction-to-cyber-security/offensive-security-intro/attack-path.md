@@ -11,11 +11,7 @@
 ## 2. Directory Brute Force (dirb)
 Executed:
 
-```
-
 dirb [http://fakebank.thm](http://fakebank.thm)
-
-```
 
 Results:
 - `/bank-deposit` → HTTP 200  
@@ -28,11 +24,7 @@ Results:
 ## 3. Accessing the Hidden Admin Page
 Visited:
 
-```
-
 [http://fakebank.thm/bank-deposit](http://fakebank.thm/bank-deposit)
-
-```
 
 Findings:
 - Page accessible without authentication.
@@ -43,12 +35,12 @@ Findings:
 ---
 
 ## 4. Exploitation
-- Inserted the account number: **8881** (taken from the FakeBank dashboard).
-- Set deposit amount to **2000 USD**.
-- Clicked **Deposit Money**.
+- Inserted the account number: 8881 (taken from the FakeBank dashboard).
+- Set deposit amount to 2000 USD.
+- Clicked Deposit Money.
 
 The page returned a success popup with the green text message:
-**BANK-HACKED**
+BANK-HACKED
 
 Balance on the main page updated accordingly.
 
@@ -60,7 +52,7 @@ Balance on the main page updated accordingly.
   - Missing authentication
   - Lack of authorization checks
   - Predictable account identifiers
-- Vulnerability type: **Insecure Direct Object Reference (IDOR)** style flaw.
+- Vulnerability type: Insecure Direct Object Reference (IDOR) style flaw.
 
 ---
 
