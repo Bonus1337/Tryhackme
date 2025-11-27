@@ -1,4 +1,3 @@
-```markdown
 # Offensive Security Intro — Answers
 
 ## Task 1 — What is Offensive Security?
@@ -26,4 +25,3 @@ Answer: http://fakebank.thm/bank-deposit
 Green popup text after successful deposit:
 
 Answer: BANK-HACKED
-```

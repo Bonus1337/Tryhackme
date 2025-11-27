@@ -1,4 +1,3 @@
-```markdown
 # TryHackMe — Personal Learning Repository
 
 A structured collection of notes, writeups, methodologies and lessons learned while completing rooms and paths on **TryHackMe**.  
@@ -113,6 +112,4 @@ This repository acts as my knowledge base — something I can return to anytime 
 
 This repository is for **educational purposes only**.  
 Never perform any security testing without explicit permission.
-
-```
 

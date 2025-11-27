@@ -1,4 +1,3 @@
-```markdown
 # Offensive Security Intro — Attack Path
 
 ## 1. Reconnaissance
@@ -61,5 +60,3 @@ Balance on the main page updated accordingly.
 - Never trust client-side restrictions in forms.
 - Check for direct access to admin functionality.
 - Basic enumeration often reveals critical vulnerabilities even in simple apps.
-
-```

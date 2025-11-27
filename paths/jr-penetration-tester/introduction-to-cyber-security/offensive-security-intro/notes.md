@@ -1,4 +1,3 @@
-```markdown
 # Offensive Security Intro — Notes
 
 ## Overview
@@ -66,4 +65,3 @@ Because the FakeBank app used predictable account numbers and did not verify aut
 
 This room demonstrates the core of offensive security:  
  find flaws → exploit them → understand how to fix them.
-```

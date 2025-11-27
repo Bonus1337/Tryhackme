@@ -1,4 +1,3 @@
-````markdown
 # Common Commands (TryHackMe Pentesting Toolbox)
 
 A collection of the most commonly used commands during reconnaissance, enumeration, exploitation, privilege escalation and post-exploitation.
@@ -112,5 +111,3 @@ file <filename>
 * If something "doesn't work", refresh or restart the machine.
 
 ---
-
-````
