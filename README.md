@@ -1,8 +1,10 @@
 # TryHackMe — Personal Learning Repository
 
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bonus1337.png" width="250">
+<br>
 A structured collection of notes, writeups, methodologies and lessons learned while completing rooms and paths on **TryHackMe**.  
 This repository serves as my long-term knowledge base for pentesting, cybersecurity and practical offensive techniques.
-<img src="https://tryhackme-badges.s3.amazonaws.com/Bonus1337.png" alt="Your Image Badge" />
 ---
 
 ## 🎯 Purpose of this Repository
