@@ -19,7 +19,7 @@ This project is built to:
 ---
 
 ## 📁 Repository Structure
-
+```markdown
 paths/
 └── jr-penetration-tester/
 └── introduction-to-cyber-security/
@@ -27,7 +27,7 @@ paths/
 ├── notes.md
 ├── attack-path.md
 └── answers.md
-
+```
 toolbox/
 └── common-commands.md
 
